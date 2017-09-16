@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CONFIG SYSTEM "" [
+<!ENTITY xml "Extensible Markup Language">
+]>
+<config>
+<server port="12345" host="localhost" queue="10">
+</server>
+<catalog pathCatalog="config/catalog.xml" pathProducts="data/Products" pathVisionAreas="data/VisionAreas">
+</catalog>
+</config>

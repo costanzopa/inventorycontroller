@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CATALOG [
+<!ENTITY xml "Extensible Markup Language">
+]>
+<catalog>
+<products>
+<product name="Coca-Cola" description="Descripcion de coca-cola" path="data/Products/Coca-Cola/Images" icon="data/Icons/Coca-Cola" pathStock="data/Products/Coca-Cola/Stock">
+</product>
+<product name="Pepsi" description="Descripcion de Pepsi" path="server/data/Products/Pepsi/Images" icon="data/Icons/Pepsi" pathStock="data/Products/Pepsi/Stock">
+</product>
+</products>
+<visionAreas>
+<visionArea name="Deposito 1" type="Camera" path="data/VisionAreas/Deposito 1" pathProcess="data/VisionAreas/Deposito 1/Process">
+</visionArea>
+<visionArea name="Deposito 2" type="Video" path="data/VisionAreas/Deposito 2" pathProcess="data/VisionAreas/Deposito 2/Process">
+</visionArea>
+</visionAreas>
+</catalog>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CATALOG [
+<!ENTITY xml "Extensible Markup Language">
+]>
+<catalog>
+<products>
+<product name="Unproducto" description="Myproduct" path="data/Products/Unproducto/Images" icon="data/Icons/Unproducto" pathStock="data/Products/Unproducto/Stock">
+</product>
+</products>
+<visionAreas>
+<visionArea name="Area1" type="Cámara" path="data/VisionAreas/Area1" pathProcess="data/VisionAreas/Area1/Process">
+</visionArea>
+<visionArea name="Area6" type="Video" path="data/VisionAreas/Area6" pathProcess="data/VisionAreas/Area6/Process">
+</visionArea>
+<visionArea name="Area7" type="Video" path="data/VisionAreas/Area7" pathProcess="data/VisionAreas/Area7/Process">
+</visionArea>
+</visionAreas>
+</catalog>
